@@ -1,6 +1,10 @@
 # LMS-DB
 The schema code for the database and tables to be used by the LMS system
 
+## ARCHIVED
+Due to [the recent changes to GitHub's indepenence](https://www.theverge.com/news/757461/microsoft-github-thomas-dohmke-resignation-coreai-team-transition), I have moved development of this project to an open source Git hosting service.  
+[New version here](https://gitea.com/NickKalar/LMS-DB.git)
+
 
 ## Required Files
 ### ./.env
